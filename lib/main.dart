@@ -351,7 +351,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                         borderRadius: BorderRadius.circular(10.0),
                       ),
                       //create label
-                      labelText: 'Affiliation, e.g. IMSP, UPLB',
+                      labelText: 'Affiliation, e.g. Institute, University',
                       //lable style
                       labelStyle: TextStyle(
                         color: Colors.grey,
