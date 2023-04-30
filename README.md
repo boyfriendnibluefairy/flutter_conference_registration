@@ -1,7 +1,7 @@
 
-Author: Gilbert M. Oca
-Last Update : May 2023
-Description :
+Author: Gilbert M. Oca\n
+Last Update : May 2023\n
+Description :\n
 This app can be used for registration
 of participants in seminars, symposium, colloquium,
 conferences, and other events.
